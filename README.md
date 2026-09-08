@@ -42,21 +42,6 @@ This project provides an interactive menu-driven program for loading a Titanic C
 - 📉 Matplotlib
 - 📊 Seaborn
 
-## 📁 Project Structure
-
-```text
-Titanic_Data_Analysis_Project/
-│
-├── titanic.py
-├── titanic.csv
-├── README.md
-└── screenshots/
-    ├── output_1.png
-    ├── output_2.png
-    ├── output_3.png
-    ├── output_4.png
-    └── output_5.png
-```
 
 ## ⚙️ Installation
 
@@ -118,37 +103,40 @@ The DataFrame grouping operation also uses the `Survived` column when calculatin
 
 ## 🖥️ Screenshots
 
-### 1️⃣ Load Dataset
+### 1️ Load Dataset
 
-The program loads the Titanic CSV dataset successfully.
 
-![Load Dataset](screenshots/output_1.png)
+<img width="746" height="402" alt="1" src="https://github.com/user-attachments/assets/83464dec-5115-47e3-9987-f3d2b8ee69a9" />
 
-### 2️⃣ Explore Data
 
-The Explore Data menu can display rows, column names, data types, and basic information.
+### 2️ Explore Data
 
-![Explore Data](screenshots/output_2.png)
+<img width="801" height="542" alt="2" src="https://github.com/user-attachments/assets/0ab8869b-83a1-41c8-b120-dc84ef19648a" />
 
-### 3️⃣ DataFrame Operations
 
-Specific columns can be selected from the dataset.
+### 3️ DataFrame Operations
 
-![DataFrame Operations](screenshots/output_3.png)
+<img width="862" height="567" alt="3" src="https://github.com/user-attachments/assets/f0efe24b-e6b1-4b82-b0c2-361d21743098" />
 
-### 4️⃣ Handle Missing Data
 
-Missing rows can be removed. In the demonstrated run, **331 rows were dropped and 87 rows remained**.
+### 4 Handle Missing Data
 
-![Handle Missing Data](screenshots/output_4.png)
+<img width="752" height="437" alt="4" src="https://github.com/user-attachments/assets/b3f0fb27-807f-4ad2-bbc4-4906f228bfe6" />
 
-### 5️⃣ Descriptive Statistics
 
-The program generates descriptive statistics including count, mean, standard deviation, minimum, quartiles, and maximum.
+### 5 Descriptive Statistics
 
-![Descriptive Statistics](screenshots/output_5.png)
+<img width="1002" height="526" alt="5" src="https://github.com/user-attachments/assets/c97627b5-2704-4320-bc30-bec139626357" />
 
-## 📊 Visualization Options
+
+### 6  Data Visualization
+
+<img width="1280" height="607" alt="6" src="https://github.com/user-attachments/assets/bdd83a12-faaa-4cb4-bdd3-79356db7c487" />
+
+### 7  Save Visualization
+
+<img width="1206" height="375" alt="7" src="https://github.com/user-attachments/assets/ebffeca6-4174-4d36-9e42-649b513f9aae" />
+
 
 The program supports six types of charts:
 
